@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#03` Python: Podstawy
+# `#03` Python: Programowanie obiektowe
 
 Twoim zadaniem jest stworzenie **klasy `Employee`**, reprezentującej ogólnego pracownika, oraz **klasy `Teacher`**, która będzie dziedziczyć po `Employee`. Klasa `Teacher` powinna rozszerzać funkcjonalność klasy bazowej poprzez dodatkowy atrybut i zmianę sposobu wyświetlania informacji o pracowniku.
 
